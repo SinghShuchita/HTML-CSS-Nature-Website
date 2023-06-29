@@ -1,5 +1,5 @@
 # HTML-CSS-Nature-Website
-This website show the parallax effect, uses HTML and CSS.
+This website shows the parallax effect, uses HTML and CSS.
 
 So, in parallax, the background will not move but the foreground(the images or text content) 
 will move while scrolling.
